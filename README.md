@@ -1,1 +1,1 @@
-# Critical_Node_Detection-ILGR-
+# Critical_Node_Detection-ILGR
